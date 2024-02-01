@@ -176,6 +176,7 @@ a.btn:hover::before{
     height: 40px;
     margin-left: 50px;
     
+    
 }
 .social-icon a{
     display: inline-flex;
